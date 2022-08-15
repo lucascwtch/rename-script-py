@@ -1,5 +1,4 @@
 import os
-import string
 
 folder = r'C:\Users\lucas\Pictures\icons\\'
 
